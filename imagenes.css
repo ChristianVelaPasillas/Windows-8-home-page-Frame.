@@ -1,0 +1,427 @@
+div{
+  /*background-color: yellow;*/
+  /*margin-bottom: 5px;*/
+  margin: 5px;
+  /*display: inline-block;*/
+ /* width: 200px;
+  height: 200px; /**/ 
+  /*color: blue; */
+  /*padding: auto;*/
+  text-align: center;
+  /**padding-top: : 100px;*/
+  font-size: xx-large;
+
+}
+
+
+body {
+   font-family: 'Fresca', sans-serif;
+}
+/*.foto{
+  background-image: url(museo.jpeg);
+  background-repeat: no-repeat;
+  width: 15px;
+  height: 15px;
+
+
+}*/
+.foto{
+   float: right;
+}
+
+.imagen{
+  background-image: url(./mas/explorer.png);
+  background-size: cover;
+}
+
+.imagen1{
+  background-image: url(./mas/tienda.png);
+    width: 200px;
+   background-size: contain;
+  
+}
+
+.imagen2{
+  background-image: url(./mas/playa.jpeg);
+    width: 200px;
+   background-size: contain;
+  
+}
+
+.imagen3{
+  background-image: url(./mas/playa2.jpeg);
+    width: 200px;
+  background-size: contain;
+  
+}
+
+.imagen4{
+  background-image: url(./mas/camara.png);
+   background-size: contain;
+}
+
+.imagen5{
+  background-image: url(./mas/imagen.png);
+   background-size: contain;
+  
+}
+
+.imagen6{
+  background-image: url(./mas/musica.png);
+   background-size: contain;
+  
+}
+
+.imagen7{
+  background-image: url(./mas/videos.png);
+   background-size: contain;
+  
+}
+.imagen8{
+  background-image: url(./mas/concierto.jpg);
+   background-size: contain;
+ }
+
+ .imagen9{
+  background-image: url(./mas/muchas.jpg);
+   background-size: contain;
+ }
+
+.imagen10{
+  background-image: url(./mas/feliz.jpeg);
+   background-size: contain;
+ }
+
+.imagen11{
+  background-image: url(./mas/mapas.png);
+   background-size: contain;
+ }
+
+ .imagen12{
+  background-image: url(./mas/sky.jpeg);
+   background-size: contain;
+ }
+
+.imagen13{
+  background-image: url(./mas/Mensajes.png);
+   background-size: contain;
+ }
+
+ .imagen14{
+  background-image: url(./mas/Mensajes.png);
+   background-size: contain;
+ }
+
+ .imagen15{
+  background-image: url(./mas/deportes.png);
+   background-size: contain;
+ }
+
+  .imagen16{
+  background-image: url(./mas/escritorio.jpeg);
+   background-size: contain;
+ }
+
+  .imagen17{
+  background-image: url(./mas/clima.png);
+   background-size: contain;
+ }
+   .imagen18{
+  background-image: url(./mas/globos.jpeg);
+   background-size: contain;
+ }
+
+
+
+
+#primero{
+
+  box-shadow: 4px 2px 10px #000000;
+  background-color: #008080;
+  float: left;
+  width: 300px;
+  height: 200px;
+
+}
+
+#segundo{
+
+  /*display:none;
+  visibility: hidden;*/
+  font-family: 'Indie Flower', cursive; 
+  background-color: #16a085;
+  float: left;
+  width: 300px;
+  height: 200px;
+
+}
+
+#tercero{
+
+font-family: 'Oswald', sans-serif;
+background-color: blue;
+float: left;
+width: 150px;
+height: 200px;
+
+}
+
+#cuarto{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: left;
+width: 150px;
+height: 200px;
+
+}
+
+#quinto{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: #00008B;
+float: right;
+width: 130px;
+height: 200px;
+
+}
+
+#sexto{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: right;
+width: 300px;
+height: 200px;
+
+}
+#septimo{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: left;
+width: 300px;
+height: 200px;
+
+}
+
+#octavo{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: left;
+width: 300px;
+height: 200px;
+
+}
+
+#noveno{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: left;
+width: 150px;
+height: 200px;
+
+}
+
+#decimo{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: left;
+width: 150px;
+height: 200px;
+
+}
+
+#onceavo{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: #00008B;
+float: right;
+width: 130px;
+height: 200px;
+
+}
+
+#doceavo{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: right;
+width: 300px;
+height: 200px;
+
+}
+
+#trece{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: left;
+width: 300px;
+height: 200px;
+
+}
+
+#catorce{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: Green;
+float: left;
+width: 300px;
+height: 200px;
+
+}
+
+#quince{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: left;
+width: 310px;
+height: 200px;
+
+}
+
+#dieciseis{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: #00008B;
+float: right;
+width: 130px;
+height: 200px;
+
+}
+
+#diecisiete{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: right;
+width: 145px;
+height: 200px;
+
+}
+
+#dieciocho{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: right;
+width: 145px;
+height: 200px;
+
+}
+
+
+
+#diecinueve{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: left;
+width: 300px;
+height: 200px;
+
+}
+
+#veinte{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: left;
+width: 300px;
+height: 200px;
+
+}
+
+#veiniuno{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: left;
+width: 310px;
+height: 200px;
+
+}
+
+#veintidos{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: #00008B;
+float: right;
+width: 130px;
+height: 200px;
+
+}
+
+#veintitres{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: right;
+width: 145px;
+height: 200px;
+
+}
+
+#veinticuatro{
+
+font-family: 'Rubik Bubbles', cursive;
+background-color: powderblue;
+float: right;
+width: 145px;
+height: 200px;
+
+}
+
+
+h1 {
+
+  text-shadow: 2px 2px 5px #0f0;
+}
+
+.container{
+
+  background-color: #bdc3c7;
+  /*display: inline-flex; */
+    width: 80%;
+    /*width: 500px; */
+    /*flex-direction: row-reverse;*/
+    /*flex-direction: column;*/
+     /*flex-direction: column-reverse;*/
+    flex-wrap: wrap;   
+    
+}
+
+.caja{
+
+  height: 200px;
+  width: 200px;
+
+  display: inline-flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.cajaFloat{
+
+  height: 200px;
+  width: 200px;
+
+  float: left;
+  justify-content:center;
+  align-items:center;
+}
+
+.cajaDerecha{
+
+  height: 200px;
+  width: 200px;
+
+  float: right;
+  justify-content:center;
+  align-items:center;
+}
